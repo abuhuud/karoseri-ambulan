@@ -6,10 +6,6 @@ body {
   width: 15rem;
 }
 
-.carousel-inner {
-  height: 28rem;
-}
-
 .carousel-item img {
   background-size: cover;
 }
